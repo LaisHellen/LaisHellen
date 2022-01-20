@@ -1,16 +1,27 @@
-### Hi there 👋
+## Oi, aqui é a Lais 👋
 
-<!--
-**LaisHellen/LaisHellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Esse é meu perfil do GitHub
 
-Here are some ideas to get you started:
+- 📚 Estudo Biblioteconomia e Ciência da Informação na UFSCar
+- 💼 Faço estágio no Cadernos Brasileiros de Terapia Ocupacional - UFSCar
+- 💻 Atualmente sou aluna do Bootcamp de Data Analytics da WomakersCode
+- 💙 Tenho interesse em aprender sobre análise de dados sociais e sua aplicação em conjunto com a Biblioteconomia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Ferramentas e Tecnologias que estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+### Redes Sociais
+
+<div>
+  <a href="https://www.linkedin.com/in/laishellen/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
