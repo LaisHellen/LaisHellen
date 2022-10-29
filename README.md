@@ -3,8 +3,8 @@
 ### Esse é meu perfil do GitHub
 
 - 📚 Estudo Biblioteconomia e Ciência da Informação na UFSCar
-- 💼 Faço estágio no Cadernos Brasileiros de Terapia Ocupacional - UFSCar
-- 💻 Atualmente sou aluna do Bootcamp de Data Analytics da WomakersCode
+- 💼 Faço estágio na empresa Raccoon Marketing Digital na área de ciência de daos
+- 💻 Atualmente estudo análise e ciência de dados
 - 💙 Tenho interesse em aprender sobre análise de dados sociais e sua aplicação em conjunto com a Biblioteconomia
 
 
