@@ -8,20 +8,6 @@
 - 💙 Tenho interesse em aprender sobre análise de dados sociais e sua aplicação em conjunto com a Biblioteconomia
 
 
-### Ferramentas e Tecnologias que estou aprendendo
-<code>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40"></code>
-<code>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"></code>
-<code>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"></code>
-<code>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"></code>
-<code>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"></code>
-</br>
-</br>
-
 ### Redes Sociais
 <code>
 <div>
