@@ -1,10 +1,10 @@
 ## Oi, aqui é a Lais 👋🏾
 ### Esse é meu perfil do GitHub
 
-📚 Estudo Biblioteconomia e Ciência da Informação na UFSCar e dou técnica em biblioteconomia pela ETEC Parque da Juventude
-💼 Faço estágio na empresa Monks Marketing Digital na área de dados
-💻 Atualmente estudo análise e ciência de dados
-💙 Tenho interesse em aprender sobre análise de dados, gestão e organização de dados, além de sua aplicação em conjunto com a Biblioteconomia
+- 📚 Estudo Biblioteconomia e Ciência da Informação na UFSCar e dou técnica em biblioteconomia pela ETEC Parque da Juventude
+- 💼 Faço estágio na empresa Monks Marketing Digital na área de dados
+- 💻 Atualmente estudo análise e ciência de dados
+- 💙 Tenho interesse em aprender sobre análise de dados, gestão e organização de dados, além de sua aplicação em conjunto com a Biblioteconomia
 
 
 ### Redes Sociais
