@@ -20,8 +20,9 @@
 **Linguagens:** Python, SQL  
 **Bancos de Dados:** BigQuery, Biblivre   
 **Nuvem:** Google Cloud Console (GCP), Google Colab  
-**Visualizações de Dados:** Looker  
-**Gestão, comunicação e metodologia ágil:** Scrum, Notion, Slack, Kanban, Gmail
+**Visualizações de Dados:** Looker, Google Sheets  
+**Gestão, documentação, comunicação e metodologia ágil:** Scrum, Notion, Slack, Kanban, Gmail, Jira, Google Docs
+
 
 ### Estatísticas Básicas
 <div>
