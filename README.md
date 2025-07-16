@@ -8,16 +8,20 @@
 - ⚡ Curiosidade sobre mim: sou leitura assídua, que ama café e produz lettering literário no tempo livres.
 
 
-### Redes Sociais
-<div>
-  <a href="https://www.linkedin.com/in/laishellen/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="lais_hellen4@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-</div>
+### 📫 Redes Sociais
+<a href="mailto:lais_hellen4@hotmail.com"><img src="https://img.icons8.com/bubbles/50/000000/microsoft-outlook-2019.png" alt="Outlook"/></a>
+<a href="https://www.linkedin.com/in/laishellen/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/_porlais/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	
 
-### Linguagens e Tecnologias
-<div>
-  <a href="#"><img alt="Google BigQuery" src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"target="_blank"></a> <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4285F4?style=for-the-badge&logo=data-studio&logoColor=white"target="_blank"></a> <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=for-the-badge&logo=google%20sheets&logoColor=white"target="_blank"></a> <a href="#"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"target="_blank"></a> <a href="#"><img alt="Google Cloud Console" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"target="_blank"></a> <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"target="_blank"></a> <a href="#"><img alt="PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"target="_blank"></a> <a href="#"><img alt="Google Apresentações" src="https://img.shields.io/badge/google_apresentações-B7472A?style=for-the-badge&logo=google-apresentacao&logoColor=white"target="_blank"></a> <a href="#"><img alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"target="_blank"></a> <a href="#"><img alt="Google Docs" src="https://img.shields.io/badge/google_docs-2B579A?style=for-the-badge&logo=google-docs&logoColor=white"target="_blank"></a> <a href="#"><img alt="Looker" src="https://img.shields.io/badge/looker-4285F4?style=for-the-badge&logo=looker&logoColor=white"target="_blank"></a> <a href="#"><img alt="Jira" src="https://img.shields.io/badge/jira-100000?style=for-the-badge&logo=jira&logoColor=white"target="_blank"></a>
-  
-</div>
+### 🛠️  Linguagens e Tecnologias
+*Adepta a aprender outras*
+
+**Linguagens:** Python, SQL  
+**Bancos de Dados:** BigQuery, Biblivre   
+**Nuvem:** Google Cloud Console (GCP), Google Colab  
+**Visualizações de Dados:** Looker  
+**Gestão, comunicação e metodologia ágil:** Scrum, Notion, Slack, Kanban, Gmail
 
 ### Estatísticas Básicas
 <div>
