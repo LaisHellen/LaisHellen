@@ -2,7 +2,7 @@
 ### Esse é meu perfil do GitHub
 
 - 📚 Me formei em Biblioteconomia e Ciência da Informação na UFSCar e sou técnica em biblioteconomia pela ETEC Parque da Juventude
-- 💼 Sou analista na empresa Monks Marketing Digital, na área de dados
+- 💼 Atuo na área de dados para a empresa Monks Marketing Digital
 - 💻 Atualmente estudo inglês
 - 💙 Estou buscando aprender sobre análise de dados, gestão e organização de dados, redação técnica em dados (TW), taxonomia, ontologia, metadados e arquitetura da informação.
 - ⚡ Curiosidade sobre mim: sou leitura assídua, que ama café e produz lettering literário no tempo livre.
@@ -17,10 +17,10 @@
 ### 🛠️  Linguagens e Tecnologias
 *Adepta a aprender outras*
 
-**Linguagens:** Python, SQL  
+**Linguagens:** SQL, Python 
 **Bancos de Dados:** BigQuery, Biblivre   
 **Nuvem:** Google Cloud Console (GCP), Google Colab  
-**Visualizações de Dados:** Looker, Google Sheets  
+**Visualizações e gerenciamento de Dados:** Looker, Google Sheets, Excel, Datorama
 **Gestão, documentação, comunicação e metodologia ágil:** Scrum, Notion, Slack, Kanban, Gmail, Jira, Google Docs
 
 
