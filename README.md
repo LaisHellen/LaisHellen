@@ -1,10 +1,10 @@
 ## Oi, aqui é a Lais 👋🏾
 ### Esse é meu perfil do GitHub
 
-- 📚 Me formei em Biblioteconomia e Ciência da Informação na UFSCar e sou técnica em biblioteconomia pela ETEC Parque da Juventude
-- 💼 Atuo na área de dados para a empresa Monks Marketing Digital
+- 📚 Me formei em `Biblioteconomia e Ciência da Informação` na UFSCar e sou técnica em biblioteconomia pela ETEC Parque da Juventude
+- 💼 Atuo na `área de dados` para a empresa Monks Marketing Digital
 - 💻 Atualmente estudo inglês
-- 💙 Estou buscando aprender sobre análise de dados, gestão e organização de dados, redação técnica em dados (TW), taxonomia, ontologia, metadados e arquitetura da informação.
+- 💙 Estou buscando aprender sobre `análise de dados`, `gestão e organização de dados`, `redação técnica em dados (TW)`, `taxonomia`, `ontologia`, `metadados` e `arquitetura da informação`.
 - ⚡ Curiosidade sobre mim: sou leitura assídua, que ama café e produz lettering literário no tempo livre.
 
 
