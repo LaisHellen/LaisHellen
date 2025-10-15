@@ -1,7 +1,8 @@
 # Revisão e otimização do fluxo de planilha automatizada
+
 O objetivo do projeto foi substituir o fluxo da planilha Macro 2024/2025 por um modelo anual contínuo, eliminando a necessidade de troca de arquivos e reduzindo o consumo de armazenamento e processamento. Logo, realizei a revisão e otimização da planilha corporativa que reunia dados brutos e campos calculados de múltiplas origens (manuais e automatizadas), com consumo médio de 2,1 GB por hora durante a execução.
 
-![image](https://prod-files-secure.s3.us-west-2.amazonaws.com/a905e310-3606-48e7-b760-c76cc029e59b/48fce9cf-80c5-440a-a25b-11170a5e286c/Captura_de_Tela_2025-01-10_as_10.01.25.png)
+![image](https://github.com/LaisHellen/LaisHellen/blob/main/otimizacao_planilha1.png)
 
 Para começar, mapeei toda a linhagem de dados manualmente, identificando dependências, origens e conexões ativas que impactavam o desempenho. Resumidamente descrito na imagem abaixo:
 ![fluxo leroy generico 2.png](attachment:9120df2e-ff65-4b8c-99c1-c9326d7315e9:fluxo_leroy_generico_2.png)
