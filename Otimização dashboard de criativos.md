@@ -2,7 +2,7 @@
 
 O cliente sinalizou que a dashboard de criativos no Looker estava demorando para carregar e pediu para investigarmos possíveis soluções.
 
-- Recriei as tabelas fazendo particionamento e clusterização em SQL no Banco de dados do cliente, para diminuir o processamento e realizei as trocas para alimentar o Looker
+* Recriei as tabelas fazendo particionamento e clusterização em SQL no Banco de dados do cliente, para diminuir o processamento e realizei as trocas para alimentar o Looker
 Exemplo de Código utilizado:
 
 ```
@@ -22,7 +22,7 @@ CREATE OR REPLACE TABLE
 	  `id_projeto.dataset.view_base` 
 ```
 
-- Recriei as consultas programadas e unifiquei as em apenas uma consulta, usando a função merge para alimentar as novas tabelas periodicamente conectadas na dashboard de criativos. Tudo numa mesma programação facilita economia de processamento
+* Recriei as consultas programadas e unifiquei as em apenas uma consulta, usando a função merge para alimentar as novas tabelas periodicamente conectadas na dashboard de criativos. Tudo numa mesma programação facilita economia de processamento
     
     Exemplo de Código utilizado:
 ```
