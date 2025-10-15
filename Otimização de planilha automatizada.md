@@ -5,11 +5,11 @@ O objetivo do projeto foi substituir o fluxo da planilha Macro 2024/2025 por um 
 ![image](https://github.com/LaisHellen/LaisHellen/blob/main/otimizacao_planilha1.png)
 
 Para começar, mapeei toda a linhagem de dados manualmente, identificando dependências, origens e conexões ativas que impactavam o desempenho. Resumidamente descrito na imagem abaixo:
-![fluxo leroy generico 2.png](attachment:9120df2e-ff65-4b8c-99c1-c9326d7315e9:fluxo_leroy_generico_2.png)
+![image](https://github.com/LaisHellen/LaisHellen/blob/main/otimizacao_planilha2.png)
 
 A partir desse diagnóstico, realizei a limpeza e reorganização do fluxo, o que reduziu significativamente o consumo de processamento e viabilizou a construção das quebras mensais e anuais desenvolvidas posteriormente em uma demanda complementar do mesmo projeto, facilitando análises comparativas e visuais.
 
-![fluxo novo leroy generico 3.png](attachment:9fb8d044-c1ea-4816-8bee-49a182a07e52:fluxo_novo_leroy_generico_3.png)
+![image](https://github.com/LaisHellen/LaisHellen/blob/main/otimizacao_planilha3.png)
 
 No BigQuery do cliente, desenvolvi uma UDF em SQL e com uso de `REGEXP` para automatizar a classificação de campanhas, parecido com o seguinte código: 
 
