@@ -82,5 +82,21 @@ Essa abaixo por exemplo, traz dados filtrados e renomeados de outra aba; se não
 ```
 Resumo das modificações técnicas:
 
+| | **Antes** | **Depois** |
+| :--- | :--- | :--- |
+| **Fontes Conectadas** | 4 fontes automatizadas sem partição + 5 fontes de dados manuais | 3 tabelas particionadas |
+| **Quantidade Extrações** | 11 automatizadas | 5 automatizadas + 5 de dados manuais normalizado |
+| **Quantidade de views totais** | 23 | 14 |
+| **Views conectadas à planilha final** | 6 views | 3 tabelas particionadas |
+| **Processamento (views)** | 831,6 MB | 1 Consulta programada: 78,31 MB |
+| **Processamento (planilha final)** | 2.1 GB/hora | 372,45 KB/hora |
 
+Além disso, propus melhorias técnicas para manter a eficiência do fluxo, incluindo:
 
+- Revisão e exclusão de dados anteriores a 2023
+- Ampliação da automação de origens manuais
+- Criação de Cloud Function para limpeza anual automática
+- Padronização e documentação das colunas manuais
+- Evolução da camada visual com dashboards e comparativos
+
+Por fim, devido à outros fluxos de trabalho, organizei o cronograma de migração dos arquivos para a nova estrutura e deixei documentado o plano de continuidade do projeto para outro analista concluir o projeto.
