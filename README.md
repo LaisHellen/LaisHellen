@@ -3,7 +3,7 @@
 
 - 📚 Me formei em `Biblioteconomia e Ciência da Informação` na UFSCar e sou técnica em biblioteconomia pela ETEC Parque da Juventude
 - 💼 Atuo na `área de dados` para a empresa Monks Marketing Digital
-- 💻 Atualmente estudo inglês
+- 🔉 Atualmente estudo inglês
 - 💙 Estou buscando aprender sobre `análise de dados`, `gestão e organização de dados`, `redação técnica em dados (TW)`, `taxonomia`, `ontologia`, `metadados` e `arquitetura da informação`.
 - ⚡ Curiosidade sobre mim: sou leitura assídua, que ama café e produz lettering literário no tempo livre.
 
@@ -23,11 +23,11 @@
 **Visualizações e gerenciamento de Dados:** Looker, Google Sheets, Excel, Datorama  
 **Gestão, documentação, comunicação e metodologia ágil:** Scrum, Notion, Slack, Kanban, Gmail, Jira, Google Docs  
 
-### Projetos
+### 💻 Projetos
 - [Projeto 1](https://github.com/LaisHellen/LaisHellen/blob/main/Otimiza%C3%A7%C3%A3o%20de%20planilha%20automatizada.md): Revisão e otimização do fluxo de planilha automatizada
 - [Projeto 2](https://github.com/LaisHellen/LaisHellen/blob/main/Otimiza%C3%A7%C3%A3o%20dashboard%20de%20criativos.md): Otimização de processamento da dashboard de criativos no Looker
 
-### Estatísticas Básicas
+### 📉 Estatísticas Básicas
 <div>
 <a href="https://github.com/LaisHellen">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisHellen&layout=compact&langs_count=7&theme=dracula"/>
