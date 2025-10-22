@@ -17,12 +17,15 @@
 ### 🛠️  Linguagens e Tecnologias
 *Adepta a aprender outras*
 
-**Linguagens:** SQL, Python 
-**Bancos de Dados:** BigQuery, Biblivre   
-**Nuvem:** Google Cloud Console (GCP), Google Colab  
-**Visualizações e gerenciamento de Dados:** Looker, Google Sheets, Excel, Datorama
-**Gestão, documentação, comunicação e metodologia ágil:** Scrum, Notion, Slack, Kanban, Gmail, Jira, Google Docs
+**Linguagens:** SQL, Python   
+**Bancos de Dados:** BigQuery, Biblivre    
+**Nuvem:** Google Cloud Console (GCP), Google Colab    
+**Visualizações e gerenciamento de Dados:** Looker, Google Sheets, Excel, Datorama  
+**Gestão, documentação, comunicação e metodologia ágil:** Scrum, Notion, Slack, Kanban, Gmail, Jira, Google Docs  
 
+### Projetos
+- [Projeto 1](https://github.com/LaisHellen/LaisHellen/blob/main/Otimiza%C3%A7%C3%A3o%20de%20planilha%20automatizada.md): Revisão e otimização do fluxo de planilha automatizada
+- [Projeto 2](https://github.com/LaisHellen/LaisHellen/blob/main/Otimiza%C3%A7%C3%A3o%20dashboard%20de%20criativos.md): Otimização de processamento da dashboard de criativos no Looker
 
 ### Estatísticas Básicas
 <div>
