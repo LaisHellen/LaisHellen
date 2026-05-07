@@ -2,7 +2,7 @@
 ### Esse é meu perfil do GitHub
 
 - 📚 Me formei em `Biblioteconomia e Ciência da Informação` na UFSCar e sou técnica em biblioteconomia pela ETEC Parque da Juventude
-- 💼 Atuo na `área de dados` com ênfase em integração, tratamento e visualização de dados. 
+- 💼 Atuo na `área de dados` com ênfase em integração, tratamento e visualização de dados (Analytics Engineer)
 - 🔉 Atualmente estudo inglês
 - 💙 Estou buscando aprender sobre `análise de dados`, `BI`, `visualização, gestão e organização de dados/informações`.
 - ⚡ Curiosidade sobre mim: sou leitura assídua, que ama café e produz lettering literário no tempo livre.
