@@ -21,11 +21,15 @@
 **Bancos de Dados:** BigQuery    
 **Nuvem:** Google Cloud Console (GCP), Google Colab    
 **Visualizações e gerenciamento de Dados:** Looker, Google Sheets, Excel, Datorama  
-**Gestão, documentação, comunicação e metodologia ágil:** Scrum, Notion, Slack, Kanban, Gmail, Jira, Google Docs  
+**Gestão, documentação, comunicação e metodologia ágil:** Scrum, Notion, Slack, Kanban, Gmail, Jira, Google Docs
+
+*Aprendendo*
+**Visualizações e gerenciamento de Dados:** Power BI
 
 ### 💻 Projetos
-- [Projeto 1](https://github.com/LaisHellen/LaisHellen/blob/main/Otimiza%C3%A7%C3%A3o%20de%20planilha%20automatizada.md): Revisão e otimização do fluxo de planilha automatizada
-- [Projeto 2](https://github.com/LaisHellen/LaisHellen/blob/main/Otimiza%C3%A7%C3%A3o%20dashboard%20de%20criativos.md): Otimização de processamento da dashboard de criativos no Looker
+- [Projeto 1](https://github.com/LaisHellen/LaisHellen/blob/main/Otimiza%C3%A7%C3%A3o%20de%20planilha%20automatizada.md): Revisão e otimização de pipeline em SQL para Sheets
+- [Projeto 2](https://github.com/LaisHellen/LaisHellen/blob/main/Otimiza%C3%A7%C3%A3o%20dashboard%20de%20criativos.md): Otimização de processamento da dashboard no Looker
+- [Projeto 3]:(https://github.com/LaisHellen/LaisHellen/blob/main/analise_dados_web_livros.ipynb): Análise de ranking de livros em página web com Python.
 
 ### 📉 Estatísticas Básicas
 <div>
