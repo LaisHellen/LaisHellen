@@ -24,6 +24,7 @@
 **Gestão, documentação, comunicação e metodologia ágil:** Scrum, Notion, Slack, Kanban, Gmail, Jira, Google Docs
 
 *Aprendendo*
+
 **Visualizações e gerenciamento de Dados:** Power BI
 
 ### 💻 Projetos
