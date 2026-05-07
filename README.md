@@ -9,7 +9,7 @@
 
 
 ### 📫 Redes Sociais
-<a href="mailto:lais_hellen4@hotmail.com"><img src="https://img.icons8.com/bubbles/50/000000/microsoft-outlook-2019.png" alt="Outlook"/></a>
+<a href="mailto:lais.heellen@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Outlook"/></a>
 <a href="https://www.linkedin.com/in/laishellen/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/_porlais/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
